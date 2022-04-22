@@ -1,0 +1,18 @@
+.qr_container{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: -5px;
+}
+.qr img{
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 130px;
+    height: 130px;
+    background-size: 125px 125px;
+}
